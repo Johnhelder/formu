@@ -176,3 +176,9 @@ h1{
     bottom: 100%;
   }
 }
+
+@media (max-width: 405px){
+  .login{
+    width: 90%;
+  }
+}
