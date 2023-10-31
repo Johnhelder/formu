@@ -67,6 +67,12 @@ h1{
   color: #5b6b8b;
   display: flex;
   float: right;
+  text-decoration: none;
+  margin-top: 35px;
+}
+
+.forget:hover{
+  color: #03e9f4;
 }
 
 .btn{
